@@ -1,1 +1,1 @@
-console.log("sono il conflict");
+console.log("conflict ha modificato il file");
